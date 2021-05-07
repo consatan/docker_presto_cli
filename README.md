@@ -3,6 +3,7 @@
 ## Supported tags and respective Dockerfile links
 
 [0.252, latest (Dockerfile)](https://github.com/consatan/docker_presto_cli/blob/v0.252/Dockerfile)
+
 [0.251 (Dockerfile)](https://github.com/consatan/docker_presto_cli/blob/v0.251/Dockerfile)
 
 ## Install
